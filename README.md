@@ -5,7 +5,7 @@ This project focuses on analyzing Blinkit’s grocery sales performance, with sp
 ## Dashboard Overview
 ![Blinkit Dashboard Page](https://github.com/user-attachments/assets/a1ae59a2-7f12-4f04-9720-1ed6ba75d013)
 
-#### Step by Step
+###### Step by Step
 
 •Arranged an interactive Blinkit Sales Dashboard in Power BI, analyzing 8,523 transactions worth $1.20M total sales, with KPIs for average sales ($141) and customer satisfaction (3.9 rating).
 
